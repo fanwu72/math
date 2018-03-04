@@ -3,3 +3,4 @@ http://blog.csdn.net/programmer_wei/article/details/52072939
 独立无关，联合分布可以表示为各边际分布的乘积。
 最大似然函数不关心具体的值，使用对数函数化简。
 梯度下降。
+http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html
