@@ -3,3 +3,6 @@ http://blog.csdn.net/programmer_wei/article/details/51941358
 梯度下降，要求损失函数有极小值-------------------------如何得到有极小值的损失函数，如何判断损失函数是否有极小值。
 对损失函数的每个参数求偏导，对于每个观察值，减去步长*斜率(为什么是减？ 联想二元函数的坐标图)
 链接中对参数求偏导时，省略了求和函数，推导后又补上了。
+
+http://blog.csdn.net/ligang_csdn/article/details/53838743
+注意sigmoid函数求导的性质
