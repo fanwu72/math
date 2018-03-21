@@ -1,0 +1,11 @@
+提高对训练集的表现时，对测试集的表现反而下降，这被称为过拟合。
+类比：学校做题，驾校学车，做选择题背答案。
+举例：样本都是白天鹅， 则学习后无法识别黑天鹅。
+样本数量过少，或者特征过多。
+过度学习样本，以至于学习到的局部特征多于全局特征，或过多的噪声带来的假特征。
+导致泛化(generalization)能力不够
+解决方法时cross validation, 每次只用样本的一部分来学习， 另一部分校验， 重复n次。
+https://www.zhihu.com/question/32246256
+正则化和过拟合
+https://www.zhihu.com/question/20700829 邓子明
+http://blog.csdn.net/vivian_ll/article/details/78580677
